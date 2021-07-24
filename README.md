@@ -1,6 +1,6 @@
 # Markdown Preview
 
-This is a markdown editor built with PHP and JQuery allowing you to easily convert markdowns to HTML easily.
+This is a markdown editor built with PHP and JQuery allowing you to easily preview and copy markdowns.
 
 ## Setup
 
